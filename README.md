@@ -1,2 +1,2 @@
 # myproject1
-tis is for official purpose
+this is for official purpose
